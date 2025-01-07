@@ -68,10 +68,10 @@ const CONFIG = {
     // },
     {
       title_1: 'LaserMaker2',
-      img_1: '/images/heo/LaserMaker2.png',
+      img_1: '/images/heo/LaserMaker2.webp',
       color_1: '#34b1da',
       title_2: 'Mixly',
-      img_2: '/images/heo/Mixly.png',
+      img_2: '/images/heo/Mixly.webp',
       color_2: '#00979c',
     },
     {
