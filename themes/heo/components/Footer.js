@@ -41,7 +41,7 @@ const Footer = () => {
                 {siteConfig('BEI_AN')}
               </a> */
               <a href='https://icp.gov.moe/?keyword=20250720' className='mr-2'>
-                
+                萌ICP备20250720号
               </a>
               }
             </>
