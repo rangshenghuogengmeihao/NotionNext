@@ -72,7 +72,7 @@ const CONFIG = {
       color_1: '#34b1da',
       title_2: 'Mixly',
       img_2: '/images/heo/Mixly.webp',
-      color_2: '#00979c',
+      color_2: '#00979c'
     },
     {
       title_1: 'Docker',
