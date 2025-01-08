@@ -37,12 +37,9 @@ const Footer = () => {
           {BEI_AN && (
             <>
               <i className='fas fa-shield-alt' />{' '}
-              {/* <a href='https://beian.miit.gov.cn/' className='mr-2'>
-                {siteConfig('BEI_AN')}
-              </a> */
               <a href='https://icp.gov.moe/?keyword=20250720' className='mr-2'>
                 萌ICP备20250720号
-              </a>}
+              </a>
             </>
           )}
           <BeiAnGongAn />
